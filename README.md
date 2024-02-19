@@ -3,7 +3,7 @@ Work in progress "Checkpoint System" for Barony, it's more of a save scum versio
 
 # What it does
 
-The modifications to the EXE for now only disables the packet sent to players connected to the server to delete the savefile/game over, and prevents the client itself from deleting the savefile resulting in no progress loss once all players die.
+The modifications to the EXE for now disables the packet sent to players connected to the server to delete the savefile/game over, and prevents the client itself from deleting the savefile resulting in no progress loss once all players die. Maybe there will be a feature in the future to restart the level, but for now you will need to go to main menu and re-host the game
 
 # How to setup
 
